@@ -1,7 +1,6 @@
 {
     "project_name": "Hello World",
     "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '_') }}",
-    "author_name": "Your Name",
-    "description": "A simple Hello World project."
-  }
-  
+    "author_name": "Author's Name",
+    "description": "A simple coockiecutter demo project."
+}
