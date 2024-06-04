@@ -51,4 +51,4 @@ The following variables are available in this template:
 Here is an example of creating a project with this template:
 
 ```bash
-cookiecutter gh:Rsirp0c/hello-world-cookiecutter
+cookiecutter gh:hcheng-chwy/hello-world-cookiecutter
