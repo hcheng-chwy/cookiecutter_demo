@@ -18,7 +18,7 @@ To create a new project using this template, follow these steps:
     
 3. Generate a new project using this template (coping from Github):
     ```bash
-    cookiecutter gh:Rsirp0c/hello-world-cookiecutter
+    cookiecutter gh:hcheng-chwy/cookiecutter_demo
     ```
     After running the command, you will enter values for the following variables (default values are in parentheses): 
     ```bash
